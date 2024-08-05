@@ -7,12 +7,19 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Wemmy0&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wemmy0&theme=ambient_gradient&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wemmy0&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 GitHub Stats:
+<img
+  height=200
+  align="center"
+  alt="Github Stats"
+  src="https://github-readme-stats.vercel.app/api?username=Wemmy0&theme=ambient_gradient&hide_border=true&&hide_rank=true&include_all_commits=true&count_private=true&card_width=300"
+/>
+<img
+  height=200
+  align="center"
+  alt="Github Stats"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wemmy0&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=300"
+/>
 
-## 🌐 Socials:
-[![Letterboxd](https://img.shields.io/badge/-Letterboxd-%23202830?style=for-the-badge&logo=letterboxd&logoColor=white)](https://mastodon.social/@wemmy0)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Socials:
+[![Letterboxd](https://img.shields.io/badge/-Letterboxd-%23202830?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/wemmy0/)
